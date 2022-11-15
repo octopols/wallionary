@@ -18,7 +18,7 @@ and more...
 
 * **Wallionary requires no app permissions**. So it can't look at your private files and send them to a server
 * You need at least Android 5
-* You can request new features on [Discord](https://discord.gg/CuzTyTx
+* You can request new features on [Discord](https://discord.gg/CuzTyTx)
 * Wallionary uses **GS** when connecting to Firebase.
 
 ## Credits (alphabetically):
