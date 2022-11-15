@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864085755351",
+    "project_id": "wallionary",
+    "storage_bucket": "wallionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864085755351:android:01e56f04a1df2ee61ff792",
+        "android_client_info": {
+          "package_name": "com.hirnaymay.wallionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864085755351-ri1ksqcbpskiq2lsfvmqfii5n5gl96oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvH2_zRzDd5MR2l3jA4hBqfoAFhvaYkZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864085755351-ri1ksqcbpskiq2lsfvmqfii5n5gl96oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

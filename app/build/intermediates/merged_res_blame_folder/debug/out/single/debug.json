@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable_ic_home_logo.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable\\ic_home_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable-night_ic_home_logo.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable-night\\ic_home_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable-night_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable-night\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable_ic_wallionary.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable\\ic_wallionary.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable-night_ic_settings_home.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable-night\\ic_settings_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\layout_item_tech.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\layout\\item_tech.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\font_google_sans_regular.ttf.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\font\\google_sans_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable-night_ic_library_icon.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable-night\\ic_library_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\layout_fragment_library.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\layout\\fragment_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable-night_ic_nav_bottom_shape.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable-night\\ic_nav_bottom_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\font_google_sans_bold.ttf.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\font\\google_sans_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable-night_ic_home_icon.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable-night\\ic_home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\font_google_sans_medium_italic.ttf.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\font\\google_sans_medium_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable_ic_nav_bottom_shape.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable\\ic_nav_bottom_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable_ic_home_icon.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable\\ic_home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\font_google_sans_italic.ttf.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\font\\google_sans_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable_ic_library_icon.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable\\ic_library_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\font_google_sans.ttf.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\font\\google_sans.ttf"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\font_google_sans_medium.ttf.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\font\\google_sans_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\font_google_sans_bold_italic.ttf.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\font\\google_sans_bold_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable-v24_tech_3.png.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable-v24\\tech_3.png"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable_ic_settings_home.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable\\ic_settings_home.xml"
+    },
+    {
+        "merged": "com.example.wallionary.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.example.wallionary.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable-night_ic_wallionary.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable-night\\ic_wallionary.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\layout\\fragment_home.xml"
+    }
+]

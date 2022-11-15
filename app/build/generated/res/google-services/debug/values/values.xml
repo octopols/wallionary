@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">864085755351-ri1ksqcbpskiq2lsfvmqfii5n5gl96oq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">864085755351</string>
+    <string name="google_api_key" translatable="false">AIzaSyBvH2_zRzDd5MR2l3jA4hBqfoAFhvaYkZM</string>
+    <string name="google_app_id" translatable="false">1:864085755351:android:01e56f04a1df2ee61ff792</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBvH2_zRzDd5MR2l3jA4hBqfoAFhvaYkZM</string>
+    <string name="google_storage_bucket" translatable="false">wallionary.appspot.com</string>
+    <string name="project_id" translatable="false">wallionary</string>
+</resources>
