@@ -1,12 +1,14 @@
 package com.example.wallionary.Adapter
 
 import android.content.Context
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import com.example.wallionary.FinalWallpaper
 import com.example.wallionary.Model.HealthModel
 import com.example.wallionary.R
 
@@ -24,6 +26,12 @@ class HealthAdapter(val requireContext: Context, val listHealth: ArrayList<Healt
 
     override fun onBindViewHolder(holder: healthViewHolder, position: Int) {
         Glide.with(requireContext).load(listHealth[position].link).into(holder.imageView);
+        Glide.with(requireContext).load(listHealth[position].link).into(holder.imageView);
+        holder.itemView.setOnClickListener{
+            val intent = Intent(requireContext, FinalWallpaper::class.java)
+            intent.putExtra("link", listHealth[position].link)
+            requireContext.startActivity(intent)
+        }
     }
 
     override fun getItemCount() = listHealth.size

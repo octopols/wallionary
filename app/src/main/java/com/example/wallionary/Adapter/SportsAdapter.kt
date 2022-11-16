@@ -1,6 +1,7 @@
 package com.example.wallionary.Adapter
 
 import android.content.Context
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -8,6 +9,7 @@ import android.widget.ImageView
 import androidx.appcompat.view.menu.MenuView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import com.example.wallionary.FinalWallpaper
 import com.example.wallionary.Model.SportsModel
 import com.example.wallionary.R
 
@@ -25,6 +27,11 @@ class SportsAdapter(val requireContext: Context, val listSports: ArrayList<Sport
 
     override fun onBindViewHolder(holder: sportsViewHolder, position: Int) {
         Glide.with(requireContext).load(listSports[position].link).into(holder.imageView);
+        holder.itemView.setOnClickListener{
+            val intent = Intent(requireContext, FinalWallpaper::class.java)
+            intent.putExtra("link", listSports[position].link)
+            requireContext.startActivity(intent)
+        }
     }
 
     override fun getItemCount() = listSports.size

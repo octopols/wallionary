@@ -14,8 +14,8 @@
                         <option name="values">
                           <map>
                             <entry key="assetSourceType" value="FILE" />
-                            <entry key="outputName" value="ic_wallionary_light" />
-                            <entry key="sourceFile" value="C:\Users\SONYv\OneDrive\Desktop\Wallionary_light.svg" />
+                            <entry key="outputName" value="ic_set_wall_btn" />
+                            <entry key="sourceFile" value="C:\Users\SONYv\OneDrive\Desktop\set_wall_btn.svg" />
                           </map>
                         </option>
                       </PersistentState>

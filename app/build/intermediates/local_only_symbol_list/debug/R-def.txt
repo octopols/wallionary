@@ -7,12 +7,14 @@ color purple_700
 color teal_200
 color teal_700
 color white
+drawable ic_download_btn
 drawable ic_home_icon
 drawable ic_home_logo
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_library_icon
 drawable ic_nav_bottom_shape
+drawable ic_set_wall_btn
 drawable ic_settings_home
 drawable ic_wallionary
 drawable tech_3
@@ -24,6 +26,7 @@ font google_sans_medium
 font google_sans_medium_italic
 font google_sans_regular
 id constraintLayout
+id download_btn
 id fragmentFrame
 id health_image
 id homeButton
@@ -34,12 +37,14 @@ id imageView12
 id imageView13
 id imageView14
 id imageView2
+id imageView3
 id imageView4
 id libraryButton
 id linearLayout
 id rcv_health
 id rcv_sports
 id rcv_tech
+id set_wall_btn
 id settingsButton
 id sports_image
 id tech_image

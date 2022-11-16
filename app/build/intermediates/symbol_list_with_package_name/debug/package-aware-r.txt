@@ -2596,6 +2596,7 @@ drawable design_snackbar_background
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_clock_black_24dp
+drawable ic_download_btn
 drawable ic_home_icon
 drawable ic_home_logo
 drawable ic_keyboard_black_24dp
@@ -2610,6 +2611,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_nav_bottom_shape
+drawable ic_set_wall_btn
 drawable ic_settings_home
 drawable ic_wallionary
 drawable m3_appbar_background
@@ -2852,6 +2854,7 @@ id disableIntraAutoTransition
 id disablePostScroll
 id disableScroll
 id disjoint
+id download_btn
 id dragAnticlockwise
 id dragClockwise
 id dragDown
@@ -2925,6 +2928,7 @@ id imageView12
 id imageView13
 id imageView14
 id imageView2
+id imageView3
 id imageView4
 id immediateStop
 id included
@@ -3083,6 +3087,7 @@ id search_voice_btn
 id select_dialog_listview
 id selected
 id selection_type
+id set_wall_btn
 id settingsButton
 id sharedValueSet
 id sharedValueUnset
