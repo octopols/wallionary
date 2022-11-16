@@ -1,11 +1,11 @@
 [
     {
-        "merged": "com.example.wallionary.app-mergeDebugResources-33:/layout/activity_main.xml",
-        "source": "com.example.wallionary.app-main-36:/layout/activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-mergeDebugResources-33:\\layout\\fragment_home.xml",
         "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-mergeDebugResources-33:\\layout\\item_sports.xml",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\layout\\item_sports.xml"
     },
     {
         "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-mergeDebugResources-33:\\layout\\item_tech.xml",
@@ -16,11 +16,27 @@
         "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\layout\\fragment_library.xml"
     },
     {
+        "merged": "com.example.wallionary.app-mergeDebugResources-33:/layout/fragment_home.xml",
+        "source": "com.example.wallionary.app-main-36:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.wallionary.app-mergeDebugResources-33:/layout/fragment_library.xml",
+        "source": "com.example.wallionary.app-main-36:/layout/fragment_library.xml"
+    },
+    {
         "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-mergeDebugResources-33:\\layout\\activity_main.xml",
         "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\layout\\activity_main.xml"
     },
     {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-mergeDebugResources-33:\\layout\\item_health.xml",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\layout\\item_health.xml"
+    },
+    {
         "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-mergeDebugResources-33:\\layout\\activity_splash_screen.xml",
         "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-mergeDebugResources-33:\\layout\\activity_final_wallpaper.xml",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\layout\\activity_final_wallpaper.xml"
     }
 ]

@@ -5,19 +5,54 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
+import android.widget.ImageView;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.example.wallionary.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class FragmentLibraryBinding implements ViewBinding {
   @NonNull
   private final FrameLayout rootView;
 
-  private FragmentLibraryBinding(@NonNull FrameLayout rootView) {
+  @NonNull
+  public final ImageView imageView;
+
+  @NonNull
+  public final ImageView imageView10;
+
+  @NonNull
+  public final ImageView imageView11;
+
+  @NonNull
+  public final ImageView imageView12;
+
+  @NonNull
+  public final ImageView imageView13;
+
+  @NonNull
+  public final ImageView imageView14;
+
+  @NonNull
+  public final TextView textView2;
+
+  private FragmentLibraryBinding(@NonNull FrameLayout rootView, @NonNull ImageView imageView,
+      @NonNull ImageView imageView10, @NonNull ImageView imageView11,
+      @NonNull ImageView imageView12, @NonNull ImageView imageView13,
+      @NonNull ImageView imageView14, @NonNull TextView textView2) {
     this.rootView = rootView;
+    this.imageView = imageView;
+    this.imageView10 = imageView10;
+    this.imageView11 = imageView11;
+    this.imageView12 = imageView12;
+    this.imageView13 = imageView13;
+    this.imageView14 = imageView14;
+    this.textView2 = textView2;
   }
 
   @Override
@@ -43,10 +78,56 @@ public final class FragmentLibraryBinding implements ViewBinding {
 
   @NonNull
   public static FragmentLibraryBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.imageView;
+      ImageView imageView = ViewBindings.findChildViewById(rootView, id);
+      if (imageView == null) {
+        break missingId;
+      }
 
-    return new FragmentLibraryBinding((FrameLayout) rootView);
+      id = R.id.imageView10;
+      ImageView imageView10 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView10 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView11;
+      ImageView imageView11 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView11 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView12;
+      ImageView imageView12 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView12 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView13;
+      ImageView imageView13 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView13 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView14;
+      ImageView imageView14 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView14 == null) {
+        break missingId;
+      }
+
+      id = R.id.textView2;
+      TextView textView2 = ViewBindings.findChildViewById(rootView, id);
+      if (textView2 == null) {
+        break missingId;
+      }
+
+      return new FragmentLibraryBinding((FrameLayout) rootView, imageView, imageView10, imageView11,
+          imageView12, imageView13, imageView14, textView2);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }

@@ -16,6 +16,10 @@
         "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable\\ic_wallionary.xml"
     },
     {
+        "merged": "com.example.wallionary.app-merged_res-34:/layout_fragment_home.xml.flat",
+        "source": "com.example.wallionary.app-main-36:/layout/fragment_home.xml"
+    },
+    {
         "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable-night_ic_settings_home.xml.flat",
         "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable-night\\ic_settings_home.xml"
     },
@@ -34,6 +38,14 @@
     {
         "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\layout_item_health.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\layout\\item_health.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\layout_activity_final_wallpaper.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\layout\\activity_final_wallpaper.xml"
     },
     {
         "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable-night_ic_library_icon.xml.flat",
@@ -62,6 +74,10 @@
     {
         "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.wallionary.app-merged_res-34:/layout_fragment_library.xml.flat",
+        "source": "com.example.wallionary.app-main-36:/layout/fragment_library.xml"
     },
     {
         "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
@@ -106,6 +122,10 @@
     {
         "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\layout_item_sports.xml.flat",
+        "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\layout\\item_sports.xml"
     },
     {
         "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\font_google_sans_italic.ttf.flat",
@@ -154,10 +174,6 @@
     {
         "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\drawable_ic_settings_home.xml.flat",
         "source": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-main-36:\\drawable\\ic_settings_home.xml"
-    },
-    {
-        "merged": "com.example.wallionary.app-merged_res-34:/layout_activity_main.xml.flat",
-        "source": "com.example.wallionary.app-main-36:/layout/activity_main.xml"
     },
     {
         "merged": "C:\\Users\\SONYv\\.gradle\\daemon\\7.3.3\\com.example.wallionary.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",

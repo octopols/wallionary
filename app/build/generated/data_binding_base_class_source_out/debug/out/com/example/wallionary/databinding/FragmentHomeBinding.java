@@ -33,10 +33,7 @@ public final class FragmentHomeBinding implements ViewBinding {
   public final RecyclerView rcvHealth;
 
   @NonNull
-  public final FrameLayout rcvSports;
-
-  @NonNull
-  public final RecyclerView rcvSports1;
+  public final RecyclerView rcvSports;
 
   @NonNull
   public final RecyclerView rcvTech;
@@ -55,16 +52,14 @@ public final class FragmentHomeBinding implements ViewBinding {
 
   private FragmentHomeBinding(@NonNull FrameLayout rootView,
       @NonNull ConstraintLayout constraintLayout, @NonNull ImageView imageView4,
-      @NonNull RecyclerView rcvHealth, @NonNull FrameLayout rcvSports,
-      @NonNull RecyclerView rcvSports1, @NonNull RecyclerView rcvTech,
-      @NonNull ImageButton settingsButton, @NonNull TextView textView, @NonNull TextView textView3,
-      @NonNull TextView textView4) {
+      @NonNull RecyclerView rcvHealth, @NonNull RecyclerView rcvSports,
+      @NonNull RecyclerView rcvTech, @NonNull ImageButton settingsButton,
+      @NonNull TextView textView, @NonNull TextView textView3, @NonNull TextView textView4) {
     this.rootView = rootView;
     this.constraintLayout = constraintLayout;
     this.imageView4 = imageView4;
     this.rcvHealth = rcvHealth;
     this.rcvSports = rcvSports;
-    this.rcvSports1 = rcvSports1;
     this.rcvTech = rcvTech;
     this.settingsButton = settingsButton;
     this.textView = textView;
@@ -111,17 +106,15 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.rcvHealth;
+      id = R.id.rcv_health;
       RecyclerView rcvHealth = ViewBindings.findChildViewById(rootView, id);
       if (rcvHealth == null) {
         break missingId;
       }
 
-      FrameLayout rcvSports = (FrameLayout) rootView;
-
-      id = R.id.rcvSports;
-      RecyclerView rcvSports1 = ViewBindings.findChildViewById(rootView, id);
-      if (rcvSports1 == null) {
+      id = R.id.rcv_sports;
+      RecyclerView rcvSports = ViewBindings.findChildViewById(rootView, id);
+      if (rcvSports == null) {
         break missingId;
       }
 
@@ -156,8 +149,7 @@ public final class FragmentHomeBinding implements ViewBinding {
       }
 
       return new FragmentHomeBinding((FrameLayout) rootView, constraintLayout, imageView4,
-          rcvHealth, rcvSports, rcvSports1, rcvTech, settingsButton, textView, textView3,
-          textView4);
+          rcvHealth, rcvSports, rcvTech, settingsButton, textView, textView3, textView4);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -27,6 +27,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Wallionary" >
         <activity
+            android:name="com.example.wallionary.FinalWallpaper"
+            android:exported="false" />
+        <activity
             android:name="com.example.wallionary.splashScreen"
             android:exported="true" >
             <intent-filter>
@@ -37,8 +40,7 @@
         </activity>
         <activity
             android:name="com.example.wallionary.MainActivity"
-            android:exported="true" >
-        </activity>
+            android:exported="true" />
 
         <service
             android:name="com.google.firebase.components.ComponentDiscoveryService"
