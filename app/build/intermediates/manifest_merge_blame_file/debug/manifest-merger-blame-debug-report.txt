@@ -10,67 +10,71 @@
 9        android:targetSdkVersion="32" />
 9-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml
 10
-11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
-12    <!-- <uses-sdk android:minSdkVersion="14" /> -->
-13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-13-->[com.google.firebase:firebase-firestore:24.4.0] C:\Users\SONYv\.gradle\caches\transforms-3\2ea2a4ae89fed768a8a3e06bb97113f5\transformed\firebase-firestore-24.4.0\AndroidManifest.xml:12:5-79
-13-->[com.google.firebase:firebase-firestore:24.4.0] C:\Users\SONYv\.gradle\caches\transforms-3\2ea2a4ae89fed768a8a3e06bb97113f5\transformed\firebase-firestore-24.4.0\AndroidManifest.xml:12:22-76
-14    <uses-permission android:name="android.permission.INTERNET" />
-14-->[com.google.firebase:firebase-firestore:24.4.0] C:\Users\SONYv\.gradle\caches\transforms-3\2ea2a4ae89fed768a8a3e06bb97113f5\transformed\firebase-firestore-24.4.0\AndroidManifest.xml:13:5-67
-14-->[com.google.firebase:firebase-firestore:24.4.0] C:\Users\SONYv\.gradle\caches\transforms-3\2ea2a4ae89fed768a8a3e06bb97113f5\transformed\firebase-firestore-24.4.0\AndroidManifest.xml:13:22-64
+11    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+11-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:6:5-72
+11-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:6:22-69
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:8:5-76
+13-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:8:22-73
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:9:5-79
+14-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:9:22-76
 15
 16    <application
-16-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:6:5-31:19
+16-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:11:5-36:19
 17        android:allowBackup="true"
-17-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:7:9-35
+17-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:12:9-35
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 18-->[androidx.core:core:1.8.0] C:\Users\SONYv\.gradle\caches\transforms-3\9a8f30e8fe901acbc7b7fb51887b7f79\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 19        android:dataExtractionRules="@xml/data_extraction_rules"
-19-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:8:9-65
+19-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:13:9-65
 20        android:debuggable="true"
 21        android:extractNativeLibs="false"
 22        android:fullBackupContent="@xml/backup_rules"
-22-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:9:9-54
+22-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:14:9-54
 23        android:icon="@mipmap/ic_launcher"
-23-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:10:9-43
+23-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:15:9-43
 24        android:label="@string/app_name"
-24-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:11:9-41
+24-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:16:9-41
 25        android:roundIcon="@mipmap/ic_launcher_round"
-25-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:12:9-54
+25-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:17:9-54
 26        android:supportsRtl="true"
-26-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:13:9-35
+26-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:18:9-35
 27        android:testOnly="true"
 28        android:theme="@style/Theme.Wallionary" >
-28-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:14:9-48
+28-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:19:9-48
 29        <activity
-29-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:16:9-18:40
+29-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:21:9-23:40
 30            android:name="com.example.wallionary.FinalWallpaper"
-30-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:17:13-43
+30-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:22:13-43
 31            android:exported="false" />
-31-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:18:13-37
+31-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:23:13-37
 32        <activity
-32-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:19:9-27:20
+32-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:24:9-32:20
 33            android:name="com.example.wallionary.splashScreen"
-33-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:20:13-41
+33-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:25:13-41
 34            android:exported="true" >
-34-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:21:13-36
+34-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:26:13-36
 35            <intent-filter>
-35-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:22:13-26:29
+35-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:27:13-31:29
 36                <action android:name="android.intent.action.MAIN" />
-36-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:23:17-69
-36-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:23:25-66
+36-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:28:17-69
+36-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:28:25-66
 37
 38                <category android:name="android.intent.category.LAUNCHER" />
-38-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:25:17-77
-38-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:25:27-74
+38-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:30:17-77
+38-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:30:27-74
 39            </intent-filter>
 40        </activity>
 41        <activity
-41-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:28:9-30:48
+41-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:33:9-35:48
 42            android:name="com.example.wallionary.MainActivity"
-42-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:29:13-41
+42-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:34:13-41
 43            android:exported="true" />
-43-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:30:13-36
+43-->C:\Users\SONYv\AndroidStudioProjects\wallionary\app\src\main\AndroidManifest.xml:35:13-36
 44
 45        <service
 45-->[com.google.firebase:firebase-firestore-ktx:24.4.0] C:\Users\SONYv\.gradle\caches\transforms-3\6f8c3256c7c91844450a44677eed6e01\transformed\firebase-firestore-ktx-24.4.0\AndroidManifest.xml:11:9-17:19
