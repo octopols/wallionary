@@ -1,4 +1,4 @@
-# Wallionary
+# ![Wakkionary](Wallionary.png)
 Android app that changes your android's wallpaper daily, these wallpaper contains defination of some terms based on the category chosen in the app **[ FREE AND NO ADS! ]**
 
 [CLICK HERE TO DOWNLOAD THE APP](https://github.com/octopols/wallionary/releases/download/release/beta1.apk)
