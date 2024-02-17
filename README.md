@@ -39,4 +39,4 @@ Wallionary is a native Android application written in Kotlin and Java using Andr
 | ------------- | ------------- | ------------- |
 | android.permission.ACCESS_NETWORK_STATE  | The app will only update data if you're connected to the Internet | Yes
 | android.permission.REQUEST_INSTALL_PACKAGES  | Built-in apk updater | No
-| com.android.launcher.permission.INSTALL_SHORTCUT  | Install shortcuts to Anime on your home launcher | No
+| com.android.launcher.permission.INSTALL_SHORTCUT  | Install shortcuts on your home launcher | No
